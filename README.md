@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cosmicboy04Git
 - 👀 I’m interested in Python Coding.
 - 🌱 I’m currently learning HTML and CCS.
-- 💞️ I’m looking to collaborate on Javascript.
+- 💞️ I’m looking to collaborate on python.
 - 📫 How to reach me my email: zimo.gu4@gmail.com
 
 <!---
